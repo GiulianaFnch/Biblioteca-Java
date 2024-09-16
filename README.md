@@ -91,7 +91,6 @@ Após executar o projeto, você terá acesso às seguintes funcionalidades:
 ## Estrutura do Projeto
 
 - `/database`: Contém o arquivo SQL para criar e popular o banco de dados MySQL.
-- `/config.java`: Arquivo de configuração da conexão com o banco de dados.
 - `/src`: Contém os scripts Java responsáveis pela lógica do sistema (CRUD de livros).
 
 ## Melhorias Futuras
