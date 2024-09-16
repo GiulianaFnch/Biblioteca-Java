@@ -32,7 +32,8 @@ Certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   2. **Configure o MySQL no XAMPP**:
+   
+2. **Configure o MySQL no XAMPP**:
 
    - Abra o **XAMPP Control Panel** e inicie os módulos **Apache** e **MySQL** clicando em "Start".
    - Acesse o **phpMyAdmin** no seu navegador através do endereço `http://localhost/phpmyadmin`.
